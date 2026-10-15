@@ -1,0 +1,13 @@
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.043955s.
+Station  JobClass          QLen    Util     RespT    ResidT    ArvR    Tput
+Source   Consultas            0       0         0         0       0       3
+Source   Atualizacoes         0       0         0         0       0     1.5
+CPU      Consultas      0.47353    0.18   0.15784   0.15784       3       3
+CPU      Atualizacoes   0.39461    0.15   0.26307   0.26307     1.5     1.5
+CPU      Interativos    0.76257  0.2942   0.23328   0.23328  3.2689  3.2689
+D1       Consultas      0.12526    0.09  0.041754  0.041754       3       3
+D1       Atualizacoes  0.062631   0.045  0.041754  0.041754     1.5     1.5
+D1       Interativos    0.20391  0.1471   0.06238   0.06238  3.2689  3.2689
+D2       Consultas      0.26277    0.18  0.087591  0.087591       3       3
+D2       Atualizacoes   0.19708   0.135   0.13139   0.13139     1.5     1.5
+Think    Interativos     49.034  49.034        15        15  3.2689  3.2689

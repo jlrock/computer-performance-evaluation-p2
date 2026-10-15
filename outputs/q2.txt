@@ -1,0 +1,42 @@
+=== MODELO ORIGINAL: MVA APROXIMADO ===
+População: (3, 1)
+Iterações: 10
+Throughput Q e U: [3.99687758 0.40692307]
+Resposta Q e U: [0.75058591 2.45746695]
+Clientes médios por classe: [3. 1.]
+Clientes médios por centro: [1.00296835 2.89937012 0.09766154]
+Erro final: 0.0007163064577107026
+
+=== MODELO ORIGINAL: MVA EXATO ===
+População: (3, 1)
+Throughput Q e U: [4.09388646 0.40933283]
+Resposta Q e U: [0.7328     2.44299973]
+Clientes médios por centro: [1.12162108 2.78013904 0.09823988]
+
+=== ATUALIZAÇÕES TRIPLICADAS: MVA EXATO ===
+População: (3, 3)
+Throughput Q e U: [2.93809654 0.90644626]
+Resposta Q e U: [1.02106924 3.30962809]
+Clientes médios por centro: [1.55026165 4.19228347 0.25745488]
+
+=== ATUALIZAÇÕES TRIPLICADAS: MVA APROXIMADO ===
+População: (3, 3)
+Iterações: 13
+Throughput Q e U: [2.84614398 0.89889222]
+Resposta Q e U: [1.05405771 3.33744128]
+Clientes médios por classe: [3. 3.]
+Clientes médios por centro: [1.35332031 4.39470273 0.25197696]
+Erro final: 0.0006708831835040563
+=== MVA EXATO: CARGA BALANCEADA ===
+Throughput Q e U: [5.24652949 0.45611889]
+Resposta média Q e U: [0.57180656 2.19241082]
+Clientes médios por centro: [1.5376982  1.41050164 1.05180016]
+
+=== MVA APROXIMADO: CARGA BALANCEADA ===
+Throughput Q e U: [5.24042201 0.45208702]
+Resposta média Q e U: [0.57247298 2.21196354]
+Iterações: 8
+
+=== VARIAÇÃO PERCENTUAL ===
+Q: throughput = +28.16%; tempo de resposta = -21.97%
+U: throughput = +11.43%; tempo de resposta = -10.26%

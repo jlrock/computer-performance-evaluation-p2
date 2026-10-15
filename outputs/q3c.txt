@@ -1,0 +1,28 @@
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.024842s.
+Station  JobClass          QLen      Util     RespT    ResidT    ArvR    Tput
+Source   Consultas            0         0         0         0       0    5.85
+Source   Atualizacoes         0         0         0         0       0     1.5
+CPU      Consultas       1.6356     0.351   0.27958   0.27958    5.85    5.85
+CPU      Atualizacoes   0.69896      0.15   0.46597   0.46597     1.5     1.5
+CPU      Interativos     1.3252   0.29151   0.40913   0.40913  3.2391  3.2391
+D1       Consultas      0.10741   0.08775   0.01836   0.01836    5.85    5.85
+D1       Atualizacoes   0.02754    0.0225   0.01836   0.01836     1.5     1.5
+D1       Interativos   0.089049  0.072879  0.027492  0.027492  3.2391  3.2391
+D2       Consultas      0.68288     0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes   0.26265     0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos     48.586    48.586        15        15  3.2391  3.2391
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.019527s.
+Station  JobClass          QLen     Util     RespT    ResidT    ArvR    Tput
+Source   Consultas            0        0         0         0       0    5.85
+Source   Atualizacoes         0        0         0         0       0     1.5
+CPU      Consultas      0.29169   0.1755  0.049862  0.049862    5.85    5.85
+CPU      Atualizacoes   0.12465    0.075  0.083103  0.083103     1.5     1.5
+CPU      Interativos    0.24571  0.14856  0.074428  0.074428  3.3013  3.3013
+D1       Consultas      0.27785   0.1755  0.047496  0.047496    5.85    5.85
+D1       Atualizacoes  0.071244    0.045  0.047496  0.047496     1.5     1.5
+D1       Interativos    0.23411  0.14856  0.070913  0.070913  3.3013  3.3013
+D2       Consultas      0.68288    0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes   0.26265    0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos      49.52    49.52        15        15  3.3013  3.3013

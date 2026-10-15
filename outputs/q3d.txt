@@ -1,0 +1,334 @@
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.071158s.
+Station  JobClass          QLen     Util     RespT    ResidT    ArvR    Tput
+Source   Consultas            0        0         0         0       0    5.85
+Source   Atualizacoes         0        0         0         0       0     1.5
+CPU      Consultas      0.29169   0.1755  0.049862  0.049862    5.85    5.85
+CPU      Atualizacoes   0.12465    0.075  0.083103  0.083103     1.5     1.5
+CPU      Interativos    0.24571  0.14856  0.074428  0.074428  3.3013  3.3013
+D1       Consultas      0.27785   0.1755  0.047496  0.047496    5.85    5.85
+D1       Atualizacoes  0.071244    0.045  0.047496  0.047496     1.5     1.5
+D1       Interativos    0.23411  0.14856  0.070913  0.070913  3.3013  3.3013
+D2       Consultas      0.68288    0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes   0.26265    0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos      49.52    49.52        15        15  3.3013  3.3013
+Terminais: 50 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.018850s.
+Station  JobClass          QLen     Util     RespT    ResidT    ArvR    Tput
+Source   Consultas            0        0         0         0       0    5.85
+Source   Atualizacoes         0        0         0         0       0     1.5
+CPU      Consultas       0.3067   0.1755  0.052427  0.052427    5.85    5.85
+CPU      Atualizacoes   0.13107    0.075  0.087378  0.087378     1.5     1.5
+CPU      Interativos     0.3098  0.17819  0.078238  0.078238  3.9597  3.9597
+D1       Consultas      0.29144   0.1755  0.049819  0.049819    5.85    5.85
+D1       Atualizacoes  0.074729    0.045  0.049819  0.049819     1.5     1.5
+D1       Interativos    0.29446  0.17819  0.074365  0.074365  3.9597  3.9597
+D2       Consultas      0.68288    0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes   0.26265    0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos     59.396   59.396        15        15  3.9597  3.9597
+Terminais: 60 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.016361s.
+Station  JobClass          QLen     Util     RespT    ResidT    ArvR    Tput
+Source   Consultas            0        0         0         0       0    5.85
+Source   Atualizacoes         0        0         0         0       0     1.5
+CPU      Consultas       0.3233   0.1755  0.055265  0.055265    5.85    5.85
+CPU      Atualizacoes   0.13816    0.075  0.092108  0.092108     1.5     1.5
+CPU      Interativos     0.3807  0.20778  0.082451  0.082451  4.6172  4.6172
+D1       Consultas       0.3064   0.1755  0.052376  0.052376    5.85    5.85
+D1       Atualizacoes  0.078564    0.045  0.052376  0.052376     1.5     1.5
+D1       Interativos     0.3609  0.20778  0.078163  0.078163  4.6172  4.6172
+D2       Consultas      0.68288    0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes   0.26265    0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos     69.258   69.258        15        15  4.6172  4.6172
+Terminais: 70 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.022140s.
+Station  JobClass          QLen     Util     RespT    ResidT    ArvR    Tput
+Source   Consultas            0        0         0         0       0    5.85
+Source   Atualizacoes         0        0         0         0       0     1.5
+CPU      Consultas      0.34175   0.1755   0.05842   0.05842    5.85    5.85
+CPU      Atualizacoes   0.14605    0.075  0.097366  0.097366     1.5     1.5
+CPU      Interativos    0.45951  0.23732  0.087132  0.087132  5.2737  5.2737
+D1       Consultas      0.32293   0.1755  0.055202  0.055202    5.85    5.85
+D1       Atualizacoes  0.082804    0.045  0.055202  0.055202     1.5     1.5
+D1       Interativos    0.43434  0.23732   0.08236   0.08236  5.2737  5.2737
+D2       Consultas      0.68288    0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes   0.26265    0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos     79.106   79.106        15        15  5.2737  5.2737
+Terminais: 80 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.035191s.
+Station  JobClass          QLen     Util     RespT    ResidT    ArvR    Tput
+Source   Consultas            0        0         0         0       0    5.85
+Source   Atualizacoes         0        0         0         0       0     1.5
+CPU      Consultas      0.36239   0.1755  0.061946  0.061946    5.85    5.85
+CPU      Atualizacoes   0.15487    0.075   0.10324   0.10324     1.5     1.5
+CPU      Interativos    0.54763  0.26681  0.092363  0.092363  5.9291  5.9291
+D1       Consultas      0.34131   0.1755  0.058343  0.058343    5.85    5.85
+D1       Atualizacoes  0.087515    0.045  0.058343  0.058343     1.5     1.5
+D1       Interativos    0.51595  0.26681   0.08702   0.08702  5.9291  5.9291
+D2       Consultas      0.68288    0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes   0.26265    0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos     88.936   88.936        15        15  5.9291  5.9291
+Terminais: 90 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.027414s.
+Station  JobClass          QLen     Util     RespT    ResidT    ArvR    Tput
+Source   Consultas            0        0         0         0       0    5.85
+Source   Atualizacoes         0        0         0         0       0     1.5
+CPU      Consultas      0.38559   0.1755  0.065913  0.065913    5.85    5.85
+CPU      Atualizacoes   0.16478    0.075   0.10986   0.10986     1.5     1.5
+CPU      Interativos    0.64673  0.29624  0.098242  0.098242  6.5831  6.5831
+D1       Consultas      0.36183   0.1755  0.061852  0.061852    5.85    5.85
+D1       Atualizacoes  0.092778    0.045  0.061852  0.061852     1.5     1.5
+D1       Interativos    0.60712  0.29624  0.092224  0.092224  6.5831  6.5831
+D2       Consultas      0.68288    0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes   0.26265    0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos     98.746   98.746        15        15  6.5831  6.5831
+Terminais: 100 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.027130s.
+Station  JobClass          QLen     Util     RespT    ResidT    ArvR    Tput
+Source   Consultas            0        0         0         0       0    5.85
+Source   Atualizacoes         0        0         0         0       0     1.5
+CPU      Consultas      0.41187   0.1755  0.070405  0.070405    5.85    5.85
+CPU      Atualizacoes   0.17601    0.075   0.11734   0.11734     1.5     1.5
+CPU      Interativos    0.75895  0.32559   0.10489   0.10489  7.2354  7.2354
+D1       Consultas       0.3849   0.1755  0.065795  0.065795    5.85    5.85
+D1       Atualizacoes  0.098692    0.045  0.065795  0.065795     1.5     1.5
+D1       Interativos    0.70956  0.32559  0.098068  0.098068  7.2354  7.2354
+D2       Consultas      0.68288    0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes   0.26265    0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos     108.53   108.53        15        15  7.2354  7.2354
+Terminais: 110 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.028751s.
+Station  JobClass         QLen     Util     RespT    ResidT    ArvR    Tput
+Source   Consultas           0        0         0         0       0    5.85
+Source   Atualizacoes        0        0         0         0       0     1.5
+CPU      Consultas     0.44185   0.1755   0.07553   0.07553    5.85    5.85
+CPU      Atualizacoes  0.18882    0.075   0.12588   0.12588     1.5     1.5
+CPU      Interativos   0.88698  0.35486   0.11248   0.11248  7.8858  7.8858
+D1       Consultas     0.41099   0.1755  0.070254  0.070254    5.85    5.85
+D1       Atualizacoes  0.10538    0.045  0.070254  0.070254     1.5     1.5
+D1       Interativos   0.82544  0.35486   0.10467   0.10467  7.8858  7.8858
+D2       Consultas     0.68288    0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes  0.26265    0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos    118.29   118.29        15        15  7.8858  7.8858
+Terminais: 120 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.029622s.
+Station  JobClass         QLen     Util     RespT    ResidT    ArvR    Tput
+Source   Consultas           0        0         0         0       0    5.85
+Source   Atualizacoes        0        0         0         0       0     1.5
+CPU      Consultas     0.47633   0.1755  0.081424  0.081424    5.85    5.85
+CPU      Atualizacoes  0.20356    0.075   0.13571   0.13571     1.5     1.5
+CPU      Interativos    1.0342  0.38402   0.12119   0.12119  8.5339  8.5339
+D1       Consultas     0.44071   0.1755  0.075334  0.075334    5.85    5.85
+D1       Atualizacoes    0.113    0.045  0.075334  0.075334     1.5     1.5
+D1       Interativos   0.95744  0.38402   0.11219   0.11219  8.5339  8.5339
+D2       Consultas     0.68288    0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes  0.26265    0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos    128.01   128.01        15        15  8.5339  8.5339
+Terminais: 130 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.017644s.
+Station  JobClass         QLen     Util     RespT    ResidT    ArvR    Tput
+Source   Consultas           0        0         0         0       0    5.85
+Source   Atualizacoes        0        0         0         0       0     1.5
+CPU      Consultas     0.51637   0.1755  0.088268  0.088268    5.85    5.85
+CPU      Atualizacoes  0.22067    0.075   0.14711   0.14711     1.5     1.5
+CPU      Interativos    1.2052  0.41306    0.1313    0.1313  9.1791  9.1791
+D1       Consultas     0.47483   0.1755  0.081167  0.081167    5.85    5.85
+D1       Atualizacoes  0.12175    0.045  0.081167  0.081167     1.5     1.5
+D1       Interativos     1.109  0.41306   0.12082   0.12082  9.1791  9.1791
+D2       Consultas     0.68288    0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes  0.26265    0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos    137.69   137.69        15        15  9.1791  9.1791
+Terminais: 140 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.025713s.
+Station  JobClass         QLen     Util     RespT    ResidT    ArvR    Tput
+Source   Consultas           0        0         0         0       0    5.85
+Source   Atualizacoes        0        0         0         0       0     1.5
+CPU      Consultas     0.56333   0.1755  0.096296  0.096296    5.85    5.85
+CPU      Atualizacoes  0.24074    0.075   0.16049   0.16049     1.5     1.5
+CPU      Interativos    1.4058  0.44193   0.14315   0.14315  9.8206  9.8206
+D1       Consultas     0.51435   0.1755  0.087924  0.087924    5.85    5.85
+D1       Atualizacoes  0.13189    0.045  0.087924  0.087924     1.5     1.5
+D1       Interativos    1.2845  0.44193    0.1308    0.1308  9.8206  9.8206
+D2       Consultas     0.68288    0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes  0.26265    0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos    147.31   147.31        15        15  9.8206  9.8206
+Terminais: 150 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.034421s.
+Station  JobClass         QLen    Util     RespT    ResidT    ArvR    Tput
+Source   Consultas           0       0         0         0       0    5.85
+Source   Atualizacoes        0       0         0         0       0     1.5
+CPU      Consultas     0.61907  0.1755   0.10582   0.10582    5.85    5.85
+CPU      Atualizacoes  0.26456   0.075   0.17637   0.17637     1.5     1.5
+CPU      Interativos    1.6439  0.4706   0.15719   0.15719  10.458  10.458
+D1       Consultas     0.56057  0.1755  0.095825  0.095825    5.85    5.85
+D1       Atualizacoes  0.14374   0.045  0.095825  0.095825     1.5     1.5
+D1       Interativos    1.4898  0.4706   0.14246   0.14246  10.458  10.458
+D2       Consultas     0.68288   0.351   0.11673   0.11673    5.85    5.85
+D2       Atualizacoes  0.26265   0.135    0.1751    0.1751     1.5     1.5
+Think    Interativos    156.87  156.87        15        15  10.458  10.458
+Terminais: 160 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.048146s.
+Station  JobClass         QLen     Util    RespT   ResidT    ArvR    Tput
+Source   Consultas           0        0        0        0       0    5.85
+Source   Atualizacoes        0        0        0        0       0     1.5
+CPU      Consultas     0.68609   0.1755  0.11728  0.11728    5.85    5.85
+CPU      Atualizacoes   0.2932    0.075  0.19547  0.19547     1.5     1.5
+CPU      Interativos    1.9301  0.49901  0.17405  0.17405  11.089  11.089
+D1       Consultas      0.6152   0.1755  0.10516  0.10516    5.85    5.85
+D1       Atualizacoes  0.15774    0.045  0.10516  0.10516     1.5     1.5
+D1       Interativos    1.7325  0.49901  0.15623  0.15623  11.089  11.089
+D2       Consultas     0.68288    0.351  0.11673  0.11673    5.85    5.85
+D2       Atualizacoes  0.26265    0.135   0.1751   0.1751     1.5     1.5
+Think    Interativos    166.34   166.34       15       15  11.089  11.089
+Terminais: 170 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.028926s.
+Station  JobClass         QLen     Util    RespT   ResidT    ArvR    Tput
+Source   Consultas           0        0        0        0       0    5.85
+Source   Atualizacoes        0        0        0        0       0     1.5
+CPU      Consultas     0.76785   0.1755  0.13126  0.13126    5.85    5.85
+CPU      Atualizacoes  0.32814    0.075  0.21876  0.21876     1.5     1.5
+CPU      Interativos    2.2792  0.52709  0.19459  0.19459  11.713  11.713
+D1       Consultas      0.6805   0.1755  0.11633  0.11633    5.85    5.85
+D1       Atualizacoes  0.17449    0.045  0.11633  0.11633     1.5     1.5
+D1       Interativos    2.0225  0.52709  0.17267  0.17267  11.713  11.713
+D2       Consultas     0.68288    0.351  0.11673  0.11673    5.85    5.85
+D2       Atualizacoes  0.26265    0.135   0.1751   0.1751     1.5     1.5
+Think    Interativos     175.7    175.7       15       15  11.713  11.713
+Terminais: 180 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.047627s.
+Station  JobClass         QLen     Util    RespT   ResidT    ArvR    Tput
+Source   Consultas           0        0        0        0       0    5.85
+Source   Atualizacoes        0        0        0        0       0     1.5
+CPU      Consultas     0.86923   0.1755  0.14859  0.14859    5.85    5.85
+CPU      Atualizacoes  0.37146    0.075  0.24764  0.24764     1.5     1.5
+CPU      Interativos    2.7122  0.55474  0.22001  0.22001  12.328  12.328
+D1       Consultas     0.75954   0.1755  0.12984  0.12984    5.85    5.85
+D1       Atualizacoes  0.19475    0.045  0.12984  0.12984     1.5     1.5
+D1       Interativos    2.3736  0.55474  0.19254  0.19254  12.328  12.328
+D2       Consultas     0.68288    0.351  0.11673  0.11673    5.85    5.85
+D2       Atualizacoes  0.26265    0.135   0.1751   0.1751     1.5     1.5
+Think    Interativos    184.91   184.91       15       15  12.328  12.328
+Terminais: 190 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.046698s.
+Station  JobClass         QLen     Util    RespT   ResidT    ArvR    Tput
+Source   Consultas           0        0        0        0       0    5.85
+Source   Atualizacoes        0        0        0        0       0     1.5
+CPU      Consultas     0.99716   0.1755  0.17046  0.17046    5.85    5.85
+CPU      Atualizacoes  0.42614    0.075  0.28409  0.28409     1.5     1.5
+CPU      Interativos    3.2585  0.58181  0.25203  0.25203  12.929  12.929
+D1       Consultas     0.85645   0.1755   0.1464   0.1464    5.85    5.85
+D1       Atualizacoes   0.2196    0.045   0.1464   0.1464     1.5     1.5
+D1       Interativos     2.804  0.58181  0.21687  0.21687  12.929  12.929
+D2       Consultas     0.68288    0.351  0.11673  0.11673    5.85    5.85
+D2       Atualizacoes  0.26265    0.135   0.1751   0.1751     1.5     1.5
+Think    Interativos    193.94   193.94       15       15  12.929  12.929
+Terminais: 200 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.036799s.
+Station  JobClass         QLen    Util    RespT   ResidT    ArvR    Tput
+Source   Consultas           0       0        0        0       0    5.85
+Source   Atualizacoes        0       0        0        0       0     1.5
+CPU      Consultas      1.1617  0.1755  0.19858  0.19858    5.85    5.85
+CPU      Atualizacoes  0.49646   0.075  0.33097  0.33097     1.5     1.5
+CPU      Interativos    3.9613  0.6081  0.29314  0.29314  13.513  13.513
+D1       Consultas     0.97679  0.1755  0.16697  0.16697    5.85    5.85
+D1       Atualizacoes  0.25046   0.045  0.16697  0.16697     1.5     1.5
+D1       Interativos    3.3385  0.6081  0.24705  0.24705  13.513  13.513
+D2       Consultas     0.68288   0.351  0.11673  0.11673    5.85    5.85
+D2       Atualizacoes  0.26265   0.135   0.1751   0.1751     1.5     1.5
+Think    Interativos     202.7   202.7       15       15  13.513  13.513
+Terminais: 210 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.033449s.
+Station  JobClass         QLen     Util    RespT   ResidT    ArvR    Tput
+Source   Consultas           0        0        0        0       0    5.85
+Source   Atualizacoes        0        0        0        0       0     1.5
+CPU      Consultas      1.3775   0.1755  0.23547  0.23547    5.85    5.85
+CPU      Atualizacoes  0.58867    0.075  0.39244  0.39244     1.5     1.5
+CPU      Interativos    4.8827  0.63332  0.34694  0.34694  14.074  14.074
+D1       Consultas       1.128   0.1755  0.19282  0.19282    5.85    5.85
+D1       Atualizacoes  0.28922    0.045  0.19282  0.19282     1.5     1.5
+D1       Interativos      4.01  0.63332  0.28493  0.28493  14.074  14.074
+D2       Consultas     0.68288    0.351  0.11673  0.11673    5.85    5.85
+D2       Atualizacoes  0.26265    0.135   0.1751   0.1751     1.5     1.5
+Think    Interativos    211.11   211.11       15       15  14.074  14.074
+Terminais: 220 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.038038s.
+Station  JobClass         QLen     Util    RespT   ResidT    ArvR    Tput
+Source   Consultas           0        0        0        0       0    5.85
+Source   Atualizacoes        0        0        0        0       0     1.5
+CPU      Consultas      1.6655   0.1755  0.28471  0.28471    5.85    5.85
+CPU      Atualizacoes  0.71177    0.075  0.47451  0.47451     1.5     1.5
+CPU      Interativos     6.113  0.65708  0.41864  0.41864  14.602  14.602
+D1       Consultas      1.3194   0.1755  0.22555  0.22555    5.85    5.85
+D1       Atualizacoes  0.33832    0.045  0.22555  0.22555     1.5     1.5
+D1       Interativos    4.8604  0.65708  0.33287  0.33287  14.602  14.602
+D2       Consultas     0.68288    0.351  0.11673  0.11673    5.85    5.85
+D2       Atualizacoes  0.26265    0.135   0.1751   0.1751     1.5     1.5
+Think    Interativos    219.03   219.03       15       15  14.602  14.602
+Terminais: 230 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.067127s.
+Station  JobClass         QLen     Util    RespT   ResidT    ArvR    Tput
+Source   Consultas           0        0        0        0       0    5.85
+Source   Atualizacoes        0        0        0        0       0     1.5
+CPU      Consultas      2.0554   0.1755  0.35136  0.35136    5.85    5.85
+CPU      Atualizacoes  0.87839    0.075  0.58559  0.58559     1.5     1.5
+CPU      Interativos    7.7781  0.67885   0.5156   0.5156  15.086  15.086
+D1       Consultas      1.5622   0.1755  0.26704  0.26704    5.85    5.85
+D1       Atualizacoes  0.40056    0.045  0.26704  0.26704     1.5     1.5
+D1       Interativos    5.9387  0.67885  0.39367  0.39367  15.086  15.086
+D2       Consultas     0.68288    0.351  0.11673  0.11673    5.85    5.85
+D2       Atualizacoes  0.26265    0.135   0.1751   0.1751     1.5     1.5
+Think    Interativos    226.28   226.28       15       15  15.086  15.086
+Terminais: 240 
+
+
+MVA analysis [method: default/exact; type: exact, deterministic; lang: python; env: 3.14.6] completed in 0.044912s.
+Station  JobClass         QLen    Util    RespT   ResidT    ArvR    Tput
+Source   Consultas           0       0        0        0       0    5.85
+Source   Atualizacoes        0       0        0        0       0     1.5
+CPU      Consultas      2.5859  0.1755  0.44203  0.44203    5.85    5.85
+CPU      Atualizacoes   1.1051   0.075  0.73672  0.73672     1.5     1.5
+CPU      Interativos    10.043   0.698   0.6475   0.6475  15.511  15.511
+D1       Consultas      1.8668  0.1755   0.3191   0.3191    5.85    5.85
+D1       Atualizacoes  0.47865   0.045   0.3191   0.3191     1.5     1.5
+D1       Interativos    7.2914   0.698  0.47008  0.47008  15.511  15.511
+D2       Consultas     0.68288   0.351  0.11673  0.11673    5.85    5.85
+D2       Atualizacoes  0.26265   0.135   0.1751   0.1751     1.5     1.5
+Think    Interativos    232.67  232.67       15       15  15.511  15.511
+Terminais: 250
